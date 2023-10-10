@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
     Thsi has a function to compare class
 """

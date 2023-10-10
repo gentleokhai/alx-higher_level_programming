@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Deals with attributes and all"""
 
 
