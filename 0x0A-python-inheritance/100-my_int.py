@@ -7,8 +7,8 @@ class MyInt(int):
 
     def __eq__(self, value):
         """Overides == operator"""
-        return self.__value != value
+        return self.__real != value
     
     def __ne__(self, value):
         """overides the != operator"""
-        return self.__value == value
+        return self.__real == value
